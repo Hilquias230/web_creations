@@ -1,0 +1,21 @@
+* {
+    font-family: Arial;
+}
+.hoje {
+    color: darkred;
+    font: 20px;
+}
+.amanha {
+    color: darkblue;
+    font: 20px;
+}
+a {
+    text-decoration: none;
+    font: 20px;
+}
+h2 a{
+    color: seagreen;
+}
+.volta {
+    color: blue;
+}
