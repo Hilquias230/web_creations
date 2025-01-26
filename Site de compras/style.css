@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+.tlt {
+    font-size: 50px;
+}
+
+.sec {
+    display: grid;
+    place-items: center;
+}
+
+.bloco1 {
+    background-color: white;
+    width: 70%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cach {
+    text-align: center;
+}
+.bloco2 {
+    background-color: white;
+    width: 70%;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.gat {
+    text-align: center;
+}
+p {
+    padding-left: 8px;
+}
+
+img {
+    width: 300px;
+    margin-left: 5px;
+    box-shadow: 0 0 2px;
+}
